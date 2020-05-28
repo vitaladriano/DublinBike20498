@@ -1,0 +1,18 @@
+<resources xmlns:https="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Dublin Bike Maps</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="MAPLOGGING">MAPLOGGING</string>
+    <string name="DEBUG_MAINACTIVITY">MAPACTIVITY</string>
+    <string name="AIzaSyAQT1TFX_ljjheBuHs35Kdq37osZ_3gHec">AIzaSyAQT1TFX_ljjheBuHs35Kdq37osZ_3gHec</string>
+    <string name="JCDecaux_API_Key">163597812dfb8e11bcdaa6297a730b46529a5bcd</string>
+    <string name="landingPage">Let\'s go ciclying</string>
+    <string name="bike_stations_map">Go to Bike Map</string>
+    <string name="DUBLIN_BIKE_API_URL" />
+    <string name="DUBLIN_BIKE_API_KEY" />
+    <string name="MAKERCLICKED" />
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="stationId">Station</string>
+    <string name="save_preferences">Save Preferences</string>
+
+</resources>
